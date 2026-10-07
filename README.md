@@ -33,5 +33,7 @@ Asegúrate de leer bien el mensaje inicial. Explica que es lo que se le va a hac
 
 Si escribes Powershell en el buscador y lo intentas ejecutar con tu usuario normal no debería de dejarte.
 
-<img width="852" height="893" alt="image" src="https://github.com/user-attachments/assets/32a94f1f-24a1-49d7-9c2d-b8bcfac6e148" />
+
+<img width="824" height="729" alt="image" src="https://github.com/user-attachments/assets/04d318cc-8d3d-435d-bd0e-08387badbf4b" />
+
 
