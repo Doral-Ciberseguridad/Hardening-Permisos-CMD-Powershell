@@ -18,6 +18,12 @@ git clone https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powersh
 ./Bloquear_permisos_usuarios_Powershell_CMD.ps1
 ```
 
+Si te da un error, prueba a ejecutar este comando primero:
+
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force
+```
+
 
 
 4. Presiona Enter cuando se te solicite para continuar y visualizar en pantalla el listado de los identificadores SID de todos los usuarios del sistema
