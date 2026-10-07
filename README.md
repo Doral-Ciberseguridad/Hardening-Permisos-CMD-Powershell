@@ -1,1 +1,28 @@
+Pasos para ejecutar y usar esta herramienta:
+
+
+1. Clona o descarga el repositorio en tu máquina ejecutando este comando:
+
+```
+git clone https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell.git
+```
+
+
+2. Asegúrate de contar con los privilegios necesarios del sistema ejecutando tu terminal como Administrador
+
+
+
+3. Lanza el script de PowerShell haciendo clic derecho y seleccionando "Ejecutar con PowerShell" o desde tu terminal elevada ejecutando:
+
+```
+./Bloquear_permisos_usuarios_Powershell_CMD.ps1
+```
+
+
+
+4. Presiona Enter cuando se te solicite para continuar y visualizar en pantalla el listado de los identificadores SID de todos los usuarios del sistema
+
+
+
+5. Comprueba cómo el script procesa cada SID de forma automática para restringir y bloquear el acceso a CMD, PowerShell, Bitsadmin y WScript a todos los usuarios que no sean Admin o Administrador
 
