@@ -37,6 +37,9 @@ Asegúrate de leer bien el mensaje inicial. Explica que es lo que se le va a hac
 
 5. Comprueba cómo el script procesa cada SID de forma automática para restringir y bloquear el acceso a CMD, PowerShell, Bitsadmin y WScript a todos los usuarios que no sean Admin o Administrador
 
+<img width="757" height="1021" alt="image" src="https://github.com/user-attachments/assets/31820f2d-aead-4241-9402-2fab729741ed" />
+
+
 Si escribes Powershell en el buscador y lo intentas ejecutar con tu usuario normal no debería de dejarte.
 
 
