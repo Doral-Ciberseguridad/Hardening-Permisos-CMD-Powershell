@@ -4,7 +4,6 @@
 
 
 
-
 # Imprimo en pantalla el texto que explica en que consiste mi programa
 Write-Host ""
 Write-Host "Este script usa icalcs para restringir y bloquear CMD, todos los tipos de Powershell y otras herramientas de ejecucion de comandos nativas de Windows"
