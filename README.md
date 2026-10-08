@@ -1,11 +1,7 @@
 Pasos para ejecutar y usar esta herramienta:
 
 
-1. Clona o descarga el repositorio en tu máquina ejecutando este comando:
-
-```
-git clone https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell.git
-```
+1. Descarga el script powershell de este repositorio.
 
 
 2. Asegúrate de contar con los privilegios necesarios del sistema ejecutando tu terminal como Administrador
